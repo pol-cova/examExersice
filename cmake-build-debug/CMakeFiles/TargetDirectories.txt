@@ -1,3 +1,4 @@
 /Users/paulcontreras/Documents/GitHub/examExersice/cmake-build-debug/CMakeFiles/app.dir
+/Users/paulcontreras/Documents/GitHub/examExersice/cmake-build-debug/CMakeFiles/test.dir
 /Users/paulcontreras/Documents/GitHub/examExersice/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/paulcontreras/Documents/GitHub/examExersice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

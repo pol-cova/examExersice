@@ -4,3 +4,4 @@ project(examExersice C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(app app.c)
+add_executable(test test.c)
